@@ -1,6 +1,11 @@
 # yoga
 
-## Some images of website
+## Built With
+* HTML
+* CSS
+* JavaScript
+
+### Some images of website
 
 ![image](https://github.com/akshataren/yoga/assets/139031583/041cd1aa-7d2f-49fe-b8bc-dc94e827c551)
 
