@@ -1,4 +1,4 @@
-# yoga
+# yoga Website
 
 ## Built With
 * HTML
